@@ -1,0 +1,21 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    background-color: lavenderblush;
+
+}
+table, td, th {border: 1px solid black;}
+table{border-collapse: collapse;}
+thead{background-color:lavender;}
+tfoot{background-color:lavender;}
